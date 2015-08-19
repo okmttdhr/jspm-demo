@@ -9,7 +9,7 @@ System.config({
 
   map: {
     "bacon-matchers": "npm:bacon.matchers@0.4.0",
-    "baconjs": "npm:baconjs@0.7.53",
+    "baconjs": "npm:baconjs@0.7.6",
     "gulp": "npm:gulp@3.9.0",
     "gulp-connect": "npm:gulp-connect@2.2.0",
     "jquery": "github:components/jquery@2.1.4",
